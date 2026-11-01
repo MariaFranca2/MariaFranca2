@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/capa.svg" width="100%" alt="mah.sql: artista 3D de moda digital no Rio de Janeiro. Roupas 3D para FiveM e as ferramentas do meu pipeline." />
+<img src="assets/capa.png" width="100%" alt="mah.sql: artista 3D de moda digital no Rio de Janeiro. Roupas 3D para FiveM e as ferramentas do meu pipeline. Ao lado, um gatinho lilás abraçando um coração roxo." />
 
 <img src="assets/skills.svg" width="100%" alt="Skills: 3ds Max, Marvelous Designer, Photoshop e Substance." />
 
